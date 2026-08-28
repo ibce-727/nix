@@ -11,6 +11,7 @@
 	protonup-qt
 	openrazer-daemon
 	polychromatic
+	gamemode
 ];
 
 	programs = {
